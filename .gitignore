@@ -1,0 +1,9 @@
+dist/
+config/backups/
+config/cache/
+config/log.txt
+publish/
+rules/
+tests/bin/
+tests/obj/
+*.user
